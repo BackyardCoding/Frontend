@@ -1,5 +1,5 @@
 # Frontend
-This repository demonstrates the frontend development skills of mdumbuya.
+This repository demonstrates the frontend development skills of BackyardCoding.
 
 ## Description 
 The depicted code of the repository was developed as part of different hobby projects. 
